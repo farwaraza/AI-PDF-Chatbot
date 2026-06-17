@@ -56,7 +56,8 @@ pdf-chatbot/
 │
 ├── app.py
 ├── requirements.txt
-├── .env
+├── Readme.md
+├── .gitignore
 │
 └── utils/
     ├── pdf_loader.py
