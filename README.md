@@ -1,4 +1,4 @@
-# AI PDF Chatbot (RAG System)
+# AI PDF Chatbot
 
 An AI-powered PDF Question Answering application that enables users to upload PDF documents and ask natural language questions about their content. The system uses a Retrieval-Augmented Generation (RAG) pipeline to retrieve relevant document sections and generate context-aware responses.
 
